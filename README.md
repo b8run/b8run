@@ -1,18 +1,33 @@
+### Oi, eu sou Bruno Lopes 👋
+### Bem Vindo a minha Pagina no Github
+
+<!--
 ### Hi, I'm Bruno Lopes 👋
 ### Welcome to my github page
+-->
 
+Eu sou estudante de engenharia de computação, gosto de trabalhar com analise de dados e sou curioso em pesquisa operacional.
+Atualmente sou pesquisador na área de Deep Learning, e uso a linguagem python.
 
+<!--
 I'm a computer engineering student, I like to work with data analysis and I'm curious about operational research.<br />
 I currently do research in the deep learning area, and use the python language.<br />
+-->
 
+<!--
 ### Programming languages
+-->
+### Linguagens de programação
 
 <img align="left" alt="Python" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Linguagem%20de%20programa%C3%A7%C3%A3o/python.svg" />
 <img align="left" alt="C" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Linguagem%20de%20programa%C3%A7%C3%A3o/c.svg" />
 <img align="left" alt="Java" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Linguagem%20de%20programa%C3%A7%C3%A3o/java.svg" /><br />
 
-
+<!--
 ### Social networks
+-->
+
+### Redes Sociais
 
 <a href="https://twitter.com/b8run">
   <img align="left" alt="Bruno Twitter" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/twitter.svg" />
