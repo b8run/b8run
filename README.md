@@ -9,7 +9,7 @@ I currently do research in the deep learning area, and use the python language.
 <img align="left" alt="Java" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Linguagem%20de%20programa%C3%A7%C3%A3o/java.svg" />
 
 
-
+### Social networks
 <a href="https://twitter.com/b8run">
   <img align="left" alt="Bruno Twitter" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/twitter.svg" />
 </a>
