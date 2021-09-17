@@ -4,9 +4,10 @@ I'm a computer engineering student, I like to work with data analysis and I'm cu
 I currently do research in the deep learning area, and use the python language.
 
 ### Programming languages
-<img align="left" alt="Python" width="22px" height="22px" src="https://img.icons8.com/dusk/64/000000/python.png" />
-<img align="left" alt="C" width="22px" height="22px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="Java" width="22px" height="22px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
+<img align="left" alt="Python" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Linguagem%20de%20programa%C3%A7%C3%A3o/python.svg" />
+<img align="left" alt="C" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Linguagem%20de%20programa%C3%A7%C3%A3o/c.svg" />
+<img align="left" alt="Java" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Linguagem%20de%20programa%C3%A7%C3%A3o/java.svg" />
+
 
 
 
