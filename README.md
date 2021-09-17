@@ -27,7 +27,7 @@ I currently do research in the deep learning area, and use the python language.<
   <img align="left" alt="Bruno Lattes" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/lattes.svg" />
 </a>
 <a href="mailto:bruno.soarez08@gmail.com">
-  <img align="left" alt="Bruno Mail" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/gmail.svg" />
+  <img align="left" alt="Bruno Mail" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/gmail.png" />
 </a>
 <br />
 <!--
