@@ -1,4 +1,6 @@
 ### Hi, I'm Bruno Lopes 👋
+### Welcome to my github page
+
 
 I'm a computer engineering student, I like to work with data analysis and I'm curious about operational research.<br />
 I currently do research in the deep learning area, and use the python language.<br />
@@ -23,6 +25,9 @@ I currently do research in the deep learning area, and use the python language.<
 </a>
 <a href="http://lattes.cnpq.br/6239440206500645">
   <img align="left" alt="Bruno Lattes" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/lattes.svg" />
+</a>
+<a href="mailto:bruno.soarez08@gmail.com">
+  <img align="left" alt="Bruno Mail" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/gmail.svg" />
 </a>
 <br />
 <!--
