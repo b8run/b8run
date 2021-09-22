@@ -44,7 +44,7 @@ I currently do research in the deep learning area, and use the python language.<
 <a href="mailto:bruno.soarez08@gmail.com">
   <img align="left" alt="Bruno Mail" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/feed/" target="_blank">
+<a href="https://discord.com/channels/@b8run#3271">
   <img align="left" alt="Bruno Discord" width="22px" height="22px" src="https://github.com/b8run/b8run/blob/main/Icones/discord.svg" />
 </a>
 <br />
