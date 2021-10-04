@@ -8,8 +8,8 @@
 ### Welcome to my github page
 -->
 
-<p>Eu sou estudante de engenharia de computação, gosto de trabalhar com analise de dados e sou curioso em pesquisa operacional.
-Atualmente sou pesquisador na área de Deep Learning, e uso a linguagem python.</p>
+Eu sou estudante de engenharia de computação, gosto de trabalhar com analise de dados e sou curioso em pesquisa operacional.
+Atualmente sou pesquisador na área de Deep Learning, e uso a linguagem python.
 
 <!--
 I'm a computer engineering student, I like to work with data analysis and I'm curious about operational research.<br />
