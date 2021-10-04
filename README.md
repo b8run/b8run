@@ -1,15 +1,15 @@
 ### Oi, eu sou Bruno Lopes 👋
 ### Bem Vindo a minha Pagina no Github
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-<styles> p{font-family: 'Press Start 2P', cursive} </styles>
+<style> p{font-family: 'Press Start 2P', cursive} </style>
 
 <!--
 ### Hi, I'm Bruno Lopes 👋
 ### Welcome to my github page
 -->
 
-Eu sou estudante de engenharia de computação, gosto de trabalhar com analise de dados e sou curioso em pesquisa operacional.
-Atualmente sou pesquisador na área de Deep Learning, e uso a linguagem python.
+<p>Eu sou estudante de engenharia de computação, gosto de trabalhar com analise de dados e sou curioso em pesquisa operacional.
+Atualmente sou pesquisador na área de Deep Learning, e uso a linguagem python.</p>
 
 <!--
 I'm a computer engineering student, I like to work with data analysis and I'm curious about operational research.<br />
